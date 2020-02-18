@@ -1,3 +1,3 @@
 # Kattis-ICPC
 ### [Elastic search books](https://github.com/miollek/Free-Elasticsearch-Books)
-### [Head first design patterns](https://github.com/kanastasov/Advanced-Java-Programming--First-Semeste-/blob/master/Design%20Patterns%20For%20Dummies%20%26%20HeadFirst/head%20first%20design%20patterns%20-%20ora%202004.pdf)
+### [Head first design patterns](http://ce.sharif.edu/courses/96-97/2/ce484-1/resources/root/Design%20Patterns/Eric%20Freeman,%20Elisabeth%20Freeman,%20Kathy%20Sierra,%20Bert%20Bates-Head%20First%20Design%20Patterns%20-OReilly%20(2008).pdf)
